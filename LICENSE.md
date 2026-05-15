@@ -1,4 +1,4 @@
-# 
+# Polymarket best bot: volatility-detection & real-time-market-analysis is the best Polymarket bot, featuring volatility-detection and real-time-market-analysis. Smart, fast, and
 
 
 
